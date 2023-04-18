@@ -9,3 +9,15 @@ brown: #593814
 body {
   background-color: #FDF0E0;
 }
+
+h1, h2{
+  color: #1D4859
+}
+
+h1 {
+  text-align: center;
+}
+
+p.picture {
+  text-align: center;
+}
