@@ -21,3 +21,18 @@ h1 {
 p.picture {
   text-align: center;
 }
+
+p, li, th, td {
+  font-size: 1.2em;
+}
+
+th, td {
+ /*  border-color: #468BA6;
+  border-style: solid;
+  border-width: 2px; */
+  border: #468BA6 solid 3px;
+}
+
+table {
+  border-collapse: collapse;
+}
